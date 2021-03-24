@@ -1,0 +1,2 @@
+language = "bash"
+run = "lua src/main.lua"
